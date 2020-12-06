@@ -66,3 +66,5 @@ module.exports = app => {
     });
 
 }
+// uuid library used to generate a unique id for every given note //
+//to install open integrated terminal and run "npm install uuid" //
